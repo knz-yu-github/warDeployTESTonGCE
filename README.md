@@ -1,1 +1,3 @@
 # warDeployTESTonGCE
+
+push test
